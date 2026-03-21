@@ -16,4 +16,3 @@ from nltk import word_tokenize
 words=word_tokenize(paragraph)
 print(words)
 print(len(words))
-
