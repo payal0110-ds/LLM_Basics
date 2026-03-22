@@ -24,5 +24,5 @@ for word in words:
 """
 - Lemmatiztion is better than stemming because it is more accurate while it fetches words from a database 
 'wordnet' which provides meaningful words.
-- Lemmatization is comparatively sower as it searches for the words from the database.
+- Lemmatization is comparatively slower as it searches for the words from the database.
 """
