@@ -20,3 +20,9 @@ for word in words:
 
 for word in words:
     print(word+"-->"+lemmatizer.lemmatize(word,pos='v'))
+
+"""
+- Lemmatiztion is better than stemming because it is more accurate while it fetches words from a database 
+'wordnet' which provides meaningful words.
+- Lemmatization is comparatively sower as it searches for the words from the database.
+"""
